@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Jidan Humaidi
-
+![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
 Hello 👋, I am **Jidan Humaidi**, an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
+
 My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
 
-I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD at **KAUST (King Abdullah University of Science and Technology)**.  
+I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD.  
 
 ---
 
@@ -32,7 +32,7 @@ I have actively engaged in both academic and extracurricular research programs, 
 
 ---
 
-### 🧪 Research & Experience
+### 🧪 Selected Research & Experience
 - **Research Trainee** – System and AI Research Training Program (SYAIR), University of Chicago *(Jan 2025 – Present)*  
   Guided by Prof. Haryadi Gunawi, focusing on systems research by studying technical papers from MobiCom, SenSys, and MobiSys.  
 
@@ -50,7 +50,7 @@ I have actively engaged in both academic and extracurricular research programs, 
 
 ---
 
-### 📄 Projects
+### 📄 Selected Projects
 - **LoRa-Based Weather Station Integrated with XGBoost Forecasting** *(Feb 2025 – Present)*  
   Designed low-power weather stations with ML-based forecasting, deployed in remote areas of Indonesia.  
 - **Visignify (Assistive Application)** *(Aug 2023 – Jan 2024)*  
