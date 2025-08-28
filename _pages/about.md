@@ -18,7 +18,7 @@ redirect_from:
 ---
 
 ### 🎓 Education
-- **B.Sc. in Automation Engineering (ongoing)** – Diponegoro University, Indonesia  
+- **B.Sc. in Automation Engineering** – Diponegoro University, Indonesia  
   - GPA: 3.89/4.00 (Ranked 1st in cohort)  
   - Relevant Coursework: Internet of Things, Embedded Control Systems, Interfaces and Peripherals, Embedded Control Systems Lab  
 
