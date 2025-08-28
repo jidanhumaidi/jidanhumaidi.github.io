@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Jidan Humaidi
-
+![Illustration of combining vision and language modalities](/images/cover.jpg){: .align-right width="300px"}
 Hello 👋, I am **Jidan Humaidi**, an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
+
 My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
 
-I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD at **KAUST (King Abdullah University of Science and Technology)**.  
+I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD.  
 
 ---
 
