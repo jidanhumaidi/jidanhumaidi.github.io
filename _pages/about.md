@@ -6,11 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<<<<<<< HEAD
+
 ![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
-=======
-![Illustration of combining vision and language modalities](/images/cover.jpg){: .align-right width="300px"}
->>>>>>> b725091de3d775e38b2747d8aef8036ddf173217
 Hello 👋, I am **Jidan Humaidi**, an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
 
 My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
