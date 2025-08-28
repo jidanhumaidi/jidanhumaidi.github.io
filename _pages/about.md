@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Jidan"
+title: "👋 Hello there, I'm Jidan"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
-Hello 👋, I am an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
+👨🏻‍💻 I am an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
 
-My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
+🔬 My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
 
-I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD.  
+📽️ I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD.  
 
 ---
 
