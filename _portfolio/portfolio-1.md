@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Weather Data Prediction Using the XGBoost Algorithm on a LoRa-Based Weather Station System"
+excerpt: "A research project focusing on weather data collection through a LoRa-based weather station and applying the XGBoost algorithm for accurate prediction and analysis 1<br/><img src='/images/Picture1.png'>"
+1<br/><img src='/images/Picture2.png'>"
 collection: portfolio
 ---
 
