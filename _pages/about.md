@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
-Hello 👋, I am **Jidan Humaidi**, an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
+Hello 👋, I am an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
 
 My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
 
