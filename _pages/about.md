@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
 
 ![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
 👨🏻‍💻 I am an undergraduate student in **Automation Engineering at Diponegoro University, Indonesia**.  
