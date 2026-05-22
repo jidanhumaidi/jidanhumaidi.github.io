@@ -8,12 +8,9 @@ redirect_from:
 ---
 ---
 
-![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
-👨🏻‍💻 I am an **MS/PhD student in Electrical and Computer Engineering** at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Slim Alouini](https://research.com/u/mohamed-slim-alouini) at the [Communication Theory Lab (CTL)](https://ctl.kaust.edu.sa/).  
+I am an **MS/PhD student in Electrical and Computer Engineering** at King Abdullah University of Science and Technology, advised by [Prof. Slim Alouini](https://research.com/u/mohamed-slim-alouini) at the [Communication Theory Lab (CTL)](https://ctl.kaust.edu.sa/).  
 
-🔬 My research interests span **Wireless Communications, Edge Computing, Internet of Things (IoT), Applied Machine Learning, and AI-driven Network Optimization**.  
-
-📽️ I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD.  
+My current research is oriented towards **Low Altitude Economy**, **Digital Twin**, **Edge AI**, and **Physical AI** — exploring how intelligent systems at the network edge can enable next-generation autonomous and connected environments.  
 
 ---
 
@@ -25,12 +22,12 @@ redirect_from:
 ---
 
 ### 🔬 Research Interests
-- Embedded Systems  
-- Wireless Sensor Networks  
-- Internet of Things (IoT)  
-- Edge Computing  
-- Applied Machine Learning  
-- Mobile Computing  
+- Low Altitude Economy  
+- Digital Twin  
+- Embedded System
+- Physical AI  
+- Wireless Sensor Networks 
+- Mobile Edge Computing  
 
 ---
 
