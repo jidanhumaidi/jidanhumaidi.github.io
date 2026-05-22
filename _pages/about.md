@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ![Illustration of combining vision and language modalities](/images/cover.png){: .align-right width="300px"}
-👨🏻‍💻 I am a recent graduate in **Automation Engineering at Diponegoro University, Indonesia**.  
+👨🏻‍💻 I am an **MS/PhD student in Electrical and Computer Engineering** at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Slim Alouini](https://research.com/u/mohamed-slim-alouini) at the [Communication Theory Lab (CTL)](https://ctl.kaust.edu.sa/).  
 
-🔬 My research interests span **Embedded Systems, Wireless Sensor Networks, Internet of Things (IoT), Applied Machine Learning, Mobile Computing, and Edge Computing**.  
+🔬 My research interests span **Wireless Communications, Edge Computing, Internet of Things (IoT), Applied Machine Learning, and AI-driven Network Optimization**.  
 
 📽️ I have actively engaged in both academic and extracurricular research programs, ranging from robotics competitions to international research training, and I am preparing to continue my graduate studies with the long-term goal of pursuing a PhD.  
 
